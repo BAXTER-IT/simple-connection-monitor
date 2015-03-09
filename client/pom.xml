@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>com.baxter.connection</groupId>
 		<artifactId>simple-connection-monitor</artifactId>
-		<version>1.1-SNAPSHOT</version>
+		<version>1.1</version>
 	</parent>
 
 	<artifactId>simple-connection-monitor-client</artifactId>
